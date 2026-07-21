@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0591_000-J.yaml, hash: 'sha256:b2ac90afedbcefc46e644b2e19a5d799d16aa29a3c0755526aa18bca5e325d43'}
+  - {seq: 0, filename: KR6q0591_000-J.yaml, hash: 'sha256:52f4fdcb51cf18965d774d83b6c042b1f6553999135732a629fed0203e0456bf'}
   - {seq: 1, filename: KR6q0591_001-J.yaml, hash: 'sha256:a665779157c1a5107b764f6dd2ff0902391f127bc98822787ea02ef327761605'}
   - {seq: 2, filename: KR6q0591_002-J.yaml, hash: 'sha256:a628ef58e0ef2a4e71dfd2461a561dd476ff69a85f8605e7eeec94f562d52cb8'}
   - {seq: 3, filename: KR6q0591_003-J.yaml, hash: 'sha256:9e73c2266f5edaad39c6c3254fe1c0be2706ceb8148027761eec93df710f9e36'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0591_005-J.yaml, hash: 'sha256:462b1c39d44cffe13e94f60a27b79bc8a8db5e61dd25d2f68d9576e0473b8765'}
   - {seq: 6, filename: KR6q0591_006-J.yaml, hash: 'sha256:2d47cb3538616c91703e4b36dd63bfcaf2ec71c40fcb858f1d06d4d6ac209e7d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0591_000-J.markers.yaml, hash: 'sha256:f8e221e6f1dec0827ae2259bce8af2e809ea69f001168c15ec5742f46e11212a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0591_000-J.markers.yaml, hash: 'sha256:7cd93acfafe710abc2246c70e071458e8bab68981a9751efbcf42b8a11a3f2b6'}
   - {seq: 1, role: markers, filename: assets/KR6q0591_001-J.markers.yaml, hash: 'sha256:e5c22f5e3dc7f687652d093f8ff5de968d980afbcdf9e36a20ca4830b5c14f16'}
   - {seq: 2, role: markers, filename: assets/KR6q0591_002-J.markers.yaml, hash: 'sha256:01231f9dd18cb0a9e4bd023f0b1d9d65c0a68ef37f1ce4cfe8ebe5abb2566f05'}
   - {seq: 3, role: markers, filename: assets/KR6q0591_003-J.markers.yaml, hash: 'sha256:c75c3280398ccd5cdd7725bc249abdc1920189ef2086a49471b5d1cc67a47057'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 周輔奏序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-3
     span:
-    - front
+    - body
     - 409
     - 409
   label: 周文英序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-4
     span:
-    - front
+    - body
     - 824
     - 824
   label: 周飛熊序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-5
     span:
-    - front
+    - body
     - 1215
     - 1215
   label: 王前驅序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-6
     span:
-    - front
+    - body
     - 1637
     - 1637
   label: 目次
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0591_J_000-mulu-7
     span:
-    - front
+    - body
     - 1814
     - 1814
   label: 請啟
@@ -3335,4 +3335,4 @@ table_of_contents:
   label: 昭覺德雲悟禪師語錄
   type: mulu
   level: 1
-hash: sha256:2b61e756fda03ec3b722425fa5d0539b16419e9b8f550c6da44b8c03ee10be07
+hash: sha256:3b8f0dea8d25ef8bf4e6a367c46e22699a2bb9d8d23e1bc98eec8bf4ad5e59cb
